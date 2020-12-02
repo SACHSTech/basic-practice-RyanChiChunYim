@@ -2,7 +2,7 @@
 -------------------------------------------------------------------------------
 Name:	avg_marks.py
 Purpose:
-Compute the average of the 4 marks 
+Compute the average of the 4 marks to output to the user 
 
 Author:	Yim.R
 
